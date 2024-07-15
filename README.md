@@ -19,9 +19,6 @@
 - Locomotive js
 - GSAP
 
-## Screenshots
-
-[Include screenshots or GIFs of your project in action]
 
 ## Installation
 
