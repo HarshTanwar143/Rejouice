@@ -28,4 +28,4 @@
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/rejouice.git
+git clone https://github.com/HarshTanwar143/rejouice.git
